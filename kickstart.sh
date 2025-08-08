@@ -2,7 +2,7 @@
 
 ## Clone repo
 
-git clone https://github.com/pealock/gls-autoclicker.git && cd gls-autoclicker
+git clone "https://github.com/pealock/gls-autoclicker.git" && cd gls-autoclicker
 
 ## Set up python
 python3 -m venv venv
